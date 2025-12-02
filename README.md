@@ -4,4 +4,5 @@ As tecnologias utilizadas nesse projeto foram Java e FlutterFlow.
 
 ![descrição](./imagem/telas.png)
 
-https://loja-de-joias.onrender.com/aula/swagger-ui/index.html
+SWAGGER: https://loja-de-joias.onrender.com/aula/swagger-ui/index.html
+DOCUMENTAÇÃO: https://docs.google.com/document/d/1lKIFzbS8e7SBM_2_1tHp6lewyGRQ0vVMbBA6XPxTnHA/edit?usp=drivesdk
